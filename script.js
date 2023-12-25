@@ -56,3 +56,4 @@ function checkForWinner() {
     updateResult("You lose.");
   }
 }
+
